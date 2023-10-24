@@ -5,6 +5,19 @@
 </p>
 <br>
 
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+
+Soy un Desarrollador Web Full Stack en búsqueda activa de emocionantes oportunidades laborales 💻.
+
+Mi pasión por la tecnología me ha llevado a sumergirme en un mundo de aprendizaje constante, dominando tecnologías esenciales como JavaScript, HTML, CSS y NodeJS. Además, he ampliado mi conocimiento al trabajar con diversos marcos de desarrollo, tales como React y Express, y he desarrollado habilidades en la creación de bases de datos utilizando PostgreSQL.
+
+En mi proyecto más reciente, mi equipo y yo nos aventuramos a explorar tecnologías vanguardistas, como GraphQL, e implementamos esta tecnología con la ayuda de Apollo.
+
+Mi compromiso con el aprendizaje continuo me impulsa a incorporar constantemente nuevas tecnologías a mi stack, con el objetivo de superarme a mí mismo y mejorar día a día. 💪
+
+<br>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Tecnologias**
 
 <a>
@@ -34,17 +47,6 @@
 <a>
 <img src = https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white width = 100px></a>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
-
-Soy un Desarrollador Web Full Stack en búsqueda activa de emocionantes oportunidades laborales 💻.
-
-Mi pasión por la tecnología me ha llevado a sumergirme en un mundo de aprendizaje constante, dominando tecnologías esenciales como JavaScript, HTML, CSS y NodeJS. Además, he ampliado mi conocimiento al trabajar con diversos marcos de desarrollo, tales como React y Express, y he desarrollado habilidades en la creación de bases de datos utilizando PostgreSQL.
-
-En mi proyecto más reciente, mi equipo y yo nos aventuramos a explorar tecnologías vanguardistas, como GraphQL, e implementamos esta tecnología con la ayuda de Apollo.
-
-Mi compromiso con el aprendizaje continuo me impulsa a incorporar constantemente nuevas tecnologías a mi stack, con el objetivo de superarme a mí mismo y mejorar día a día. 💪
-
-<br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Contacto**
 <br><br>
